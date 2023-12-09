@@ -10,10 +10,20 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 - I appreciate a cup of coffee while wiggling my keyboard.
 - I speak fluent error code. My favorite dialect is 'What did I just do?'
 ## Hit Me Up
-<p align="center">
+<p>
 	<a href="https://discordapp.com/users/413222831296610305"><img src="https://skillicons.dev/icons?i=discord"/></a>
 	<a href="https://www.linkedin.com/in/kmjahanzaib"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
+
+# What I Do
+- Develop responsive and mobile-friendly web layouts.
+- Utilize modern frameworks like **React** for dynamic UI development.
+- Prioritize user experience through intuitive navigation and accessibility features.
+- Implement performance optimization.
+- Collaborate with developers for smooth integration.
+- Stay updated on development trends and technologies.
+- Use git for version control and maintain a clean and organized codebase.
+
 
 # Stats
 <p align="center">
