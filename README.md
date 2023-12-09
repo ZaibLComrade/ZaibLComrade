@@ -33,7 +33,7 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 </p>
 
 # Techs and Tools
-<p align="center">
+<p align="center" style="display:flex;gap:10px;">
   <a><img src="https://skillicons.dev/icons?i=react"/></a>
   <a><img src="https://skillicons.dev/icons?i=tailwind"/></a>
   <a><img src="https://skillicons.dev/icons?i=mongodb"/></a>
