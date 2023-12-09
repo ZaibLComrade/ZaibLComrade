@@ -24,11 +24,13 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaibLComrade&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&border=23EB7F&ring=23EB7F&fire=CBD760&stroke=5BE2EB&sideLabels=5BE2EB&currStreakNum=5BE2EB&sideNums=5BE2EB&currStreakLabel=23EB7F&dates=23EB7F&excludeDaysLabel=23EB7F)"/>
 </p>
 
-<div style="display:flex;justify-content:space-between;align-items:center">
+<p align="center">
+<div style="display:flex;justify-content:space-between;align-items:center;width:max-content;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaibLComrade&theme=github_dark&exclude=vim,c"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaibLComrade&theme=github_dark"/>
 </div>
+</p>
 
 # Techs and Tools
 <p align="center">
