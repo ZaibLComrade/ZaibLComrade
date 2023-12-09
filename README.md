@@ -1,3 +1,5 @@
+![Cover Image](github.webp)
+
 ### Hi there 👋
 
 <!--
