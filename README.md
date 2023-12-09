@@ -4,15 +4,12 @@
   </a>
 </p>
 
-# About Me
-<div style="flex-container">
-<p>
-A front-end web developer with a vision to transmute ideas into captivating digital experience. With a focus on efficient coding and problem-solving, I enjoy tackling diverse projects that contribute to the ever-evolving web landscape. Check out my GitHub repositories for a glimpse into my coding style and project contributions. **Let's connect and collaborate** in the world of web development.
+<h1 align="center">Hi There, I am Zaib Khan</h1>	
+<p align="center"><img width="250" src="./github.webp"/></p>
+<p align="center">
+A front-end web developer with a vision to transmute ideas into captivating digital experience. With a focus on efficient coding and problem-solving, I enjoy tackling diverse projects that contribute to the ever-evolving web landscape. Check out my GitHub repositories for a glimpse into my coding style and project contributions. <b>Let's connect and collaborate</b> in the world of web development.
 </p>
-<div>
-	<img width="250" src="./github.webp"/>
-</div>
-</div>
+
 ## Facts
 - I appreciate a cup of coffee while wiggling my keyboard.
 - I speak fluent error code. My favorite dialect is 'What did I just do?'
@@ -31,7 +28,7 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 - Stay updated on development trends and technologies.
 - Use git for version control and maintain a clean and organized codebase.
 
-# Techs and Tools
+# Tech and Tools
 <p align="center">
   <a><img src="https://skillicons.dev/icons?i=react"/></a>
   <a><img src="https://skillicons.dev/icons?i=tailwind"/></a>
