@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width=250 src="https://i.postimg.cc/XvnY7jtZ/github.webp" />
+    <img width=250 src="./cover.png" />
   </a>
 </p>
 
@@ -56,7 +56,3 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaibLComrade&theme=github_dark"/>
 </p>
 </p>
-
-
-
-
