@@ -21,7 +21,7 @@ A front-end web developer with a vision to transmute ideas into captivating digi
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaibLComrade&theme=github_dark"/>
 
-<div style="display:flex;justify-content:space-between;">
+<div style="display:flex;justify-content:space-between;align-items:center;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaibLComrade&theme=github_dark&exclude=vim,c"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaibLComrade&theme=github_dark"/>
