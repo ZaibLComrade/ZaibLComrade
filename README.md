@@ -1,11 +1,18 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width=250 src="./cover.png" />
+    <img src="./cover.png" />
   </a>
 </p>
 
 # About Me
+<div style="flex-container">
+<p>
 A front-end web developer with a vision to transmute ideas into captivating digital experience. With a focus on efficient coding and problem-solving, I enjoy tackling diverse projects that contribute to the ever-evolving web landscape. Check out my GitHub repositories for a glimpse into my coding style and project contributions. **Let's connect and collaborate** in the world of web development.
+</p>
+<div>
+	<img width="250" src="./github.webp"/>
+</div>
+</div>
 ## Facts
 - I appreciate a cup of coffee while wiggling my keyboard.
 - I speak fluent error code. My favorite dialect is 'What did I just do?'
